@@ -1,0 +1,27 @@
+Sign up github -> download git -> conf git into cmd prompt
+
+create new repository -> in github
+
+for modify file in github ->
+
+git add . (or) .txt
+git commit -m "message"
+git push origin main
+
+for get file from github ->
+
+git pull
+
+branches
+
+git branch
+git branch newbranch
+git checkout newbranch
+git diff newbranch
+git merge newbranch
+
+git pull request
+
+go to pull request -> create a pull request -> add pull request -> commit request.
+
+
